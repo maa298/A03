@@ -58,6 +58,8 @@ Part 2: Glossary to include these terms in a bulleted list.
 
 **Repository**: the entire collection of files and folders associated with a project along with each files's revision history
 
+--------------------------------------------------------------------------
+
 Reference List
 IntrotoGitHub-20190318.pptx
 
