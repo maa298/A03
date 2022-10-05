@@ -34,21 +34,38 @@ Push changes
 Part 2: Glossary to include these terms in a bulleted list.
 
 **Branch**: a new/separate version of the main repository
+
 **Clone**: creates a local copy of a project that already exists remotely
+
 **Commit**: saves the current state of the project to the project history
+
 **Fetch**: download objects and refs from another repository
+
 **GIT**: an open source version control system
+
 **Github**: a web-based platform that hosts Git repositories and provides developer with tools to help them with their project
+
 **Merge**: merges lines of development together, typically used to combine changes made on two distinct branches
-**Merge Conflict**:
+
+**Merge Conflict**: an event that occurs when changes to the same content were made by multiple authors
+
 **Push**: updates the remote repository with any commits that have been made locally to a branch
+
 **Pull**: updates the local line of development with updates from its remote counterpart
-**Remote**:
+
+**Remote**: manage the set of repositories ("remotes") whose branches you track
+
 **Repository**: the entire collection of files and folders associated with a project along with each files's revision history
 
 Reference List
 IntrotoGitHub-20190318.pptx
+
 https://stackoverflow.com/questions/66350808/bold-text-within-multi-line-code-in-markdown-md-file
+
 https://docs.github.com/en/get-started/using-git/about-git#basic-git-commands
-https://git-scm.com/docs/git-fetch
+
+https://git-scm.com/docs
+
 https://www.w3schools.com/git/git_branch.asp
+
+https://www.w3docs.com/learn-git/merge-conflicts.html
